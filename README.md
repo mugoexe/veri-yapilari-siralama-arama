@@ -18,7 +18,7 @@ aynı zamanda **performansları analiz edilerek karşılaştırılmıştır**.
 
 ## 🎬 Demo (GIF)
 
-![Demo](demo.gif)
+![Demo](GİF.gif)
 
 ---
 
