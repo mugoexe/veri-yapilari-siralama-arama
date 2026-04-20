@@ -1,4 +1,4 @@
-# 🚀 Veri Yapıları Ödevi – Arama ve Sıralama Algoritmaları
+# 🚀 Veri Yapıları – Arama ve Sıralama Algoritmaları
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
